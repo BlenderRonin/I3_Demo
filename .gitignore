@@ -1,0 +1,9 @@
+Thumbs.db
+.DS_STORE
+
+assets/
+
+*.png
+*.jpg
+*.gif
+*.psd
